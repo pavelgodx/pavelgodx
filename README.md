@@ -20,5 +20,5 @@
   <img src="https://avatars.githubusercontent.com/u/33784865?s=280&v=4" title="Aiogram"  alt="Aiogram" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-2048x1826-nxzeqh6a.png" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/1437/1437121.png" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
 </div>
